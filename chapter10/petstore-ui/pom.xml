@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.packt.swarm.petstore</groupId>
-    <artifactId>petstore-ui</artifactId>
+    <artifactId>petstore-ui-mateusz</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
